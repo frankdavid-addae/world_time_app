@@ -35,7 +35,7 @@ class _LoadingState extends State<Loading> {
           constraints: BoxConstraints.expand(),
           decoration: BoxDecoration(
             image: DecorationImage(
-              image: AssetImage('assets/images/clock2.jpg'),
+              image: AssetImage('assets/images/loading_screen_bg.jpg'),
               fit: BoxFit.cover,
             ),
           ),
